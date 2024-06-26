@@ -9,7 +9,7 @@ jobs:
 
     defaults:
       run:
-        working-directory: typescript-project
+        working-directory: cron-example
 
     steps:
       - uses: actions/checkout@v2
